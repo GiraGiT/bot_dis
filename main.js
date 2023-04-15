@@ -30,4 +30,4 @@ client.on('message', async message => {
   }
 });
 
-client.login('MTA5Njc0MjAzNTY4MTE4MTg1Ng.GN472n.E-pKbv5SXTpqiiBDoYhB4ZM3I--aejCu9otx4U');
+client.login('');
